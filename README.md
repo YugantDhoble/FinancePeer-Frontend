@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#Even Hosted the Project
+https://trusting-franklin-a6f63b.netlify.app/
+
+The frontend was build with ReactJS and the api are called using axios 
+
+#Backend GitHub-Link
+https://github.com/YugantDhoble/FinancePeer-Backend
+
 ## Available Scripts
 
 In the project directory, you can run:
