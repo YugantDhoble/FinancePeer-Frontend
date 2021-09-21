@@ -4,6 +4,12 @@
 
 ## This is an application through which user can upload a json file(validation has been placed) and save it in the database and then displayed it in the card form.
 
+## Tech Stack
+
+- React.JS
+- Node.JS
+- PostgreSQL
+
 ## Features
 
 - Materialize CSS
